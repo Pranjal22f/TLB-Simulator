@@ -9,6 +9,7 @@ The simulator provides step-by-step visualization of memory management operation
 
 
 **Features**
+
 Virtual-to-physical address translation simulation
 
 Real-time TLB hit and miss tracking
@@ -45,7 +46,8 @@ Event logs and translation summaries
 
 
 **Tech Stack**
-Frontend
+
+**Frontend**
 
 HTML
 
@@ -53,7 +55,7 @@ CSS
 
 JavaScript
 
-Backend
+**Backend**
 
 Python
 
@@ -65,7 +67,9 @@ Tkinter
 
 
 **Project Structure**
-TLB-Simulator/
+
+TLB-Simulator
+
 ├── index.html
 
 ├── main.py
@@ -76,9 +80,11 @@ TLB-Simulator/
 
 
 **Concepts Demonstrated**
+
 Translation Lookaside Buffer (TLB)
 
 Paging and Address Translation
+
 Page Tables
 
 FIFO Replacement Policy
