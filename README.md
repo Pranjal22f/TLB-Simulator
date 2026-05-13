@@ -10,8 +10,11 @@ The simulator provides step-by-step visualization of memory management operation
 
 **Features**
 Virtual-to-physical address translation simulation
+
 Real-time TLB hit and miss tracking
+
 FIFO and LRU replacement policy implementation
+
 Page table visualization with:
 Valid bits
 Dirty bits
