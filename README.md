@@ -78,30 +78,6 @@ TLB-Simulator
 
 ├── README.md
 
-
-**Concepts Demonstrated**
-
-Translation Lookaside Buffer (TLB)
-
-Paging and Address Translation
-
-Page Tables
-
-FIFO Replacement Policy
-
-LRU Replacement Policy
-
-Context Switching
-
-Memory Management Unit (MMU)
-
-Effective Access Time (EAT)
-
-Thrashing
-
-Virtual Memory Management
-
-
 **Running the Project**
 
 Frontend Simulator
