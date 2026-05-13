@@ -7,6 +7,7 @@ Built with an interactive frontend and a FastAPI backend, the project helps stud
 
 The simulator provides step-by-step visualization of memory management operations, making it useful for Operating Systems learning, demonstrations, and academic projects.
 
+
 **Features**
 Virtual-to-physical address translation simulation
 Real-time TLB hit and miss tracking
@@ -25,6 +26,8 @@ Effective Access Time (EAT) calculation
 Step-by-step execution mode
 Interactive UI for observing memory operations visually
 Event logs and translation summaries
+
+
 **Tech Stack**
 Frontend
 HTML
@@ -35,12 +38,16 @@ Python
 FastAPI
 GUI Version
 Tkinter
+
+
 **Project Structure**
 TLB-Simulator/
 ├── index.html
 ├── main.py
 ├── land.py
 ├── README.md
+
+
 **Concepts Demonstrated**
 Translation Lookaside Buffer (TLB)
 Paging and Address Translation
@@ -52,6 +59,8 @@ Memory Management Unit (MMU)
 Effective Access Time (EAT)
 Thrashing
 Virtual Memory Management
+
+
 **Running the Project**
 Frontend Simulator
 
