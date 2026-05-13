@@ -9,26 +9,26 @@ The simulator provides step-by-step visualization of memory management operation
 
 
 **Features**
-Virtual-to-physical address translation simulation
+**-**Virtual-to-physical address translation simulation
 
-Real-time TLB hit and miss tracking
+**-**Real-time TLB hit and miss tracking
 
-FIFO and LRU replacement policy implementation
+**-**FIFO and LRU replacement policy implementation
 
-Page table visualization with:
-Valid bits
-Dirty bits
-Reference bits
-Accessed bits
-Global bits
-Read/Write/Execute permissions
-Page fault handling and write-back simulation
-Context switching and TLB flushing
-Thrashing detection based on miss rate
-Effective Access Time (EAT) calculation
-Step-by-step execution mode
-Interactive UI for observing memory operations visually
-Event logs and translation summaries
+**-**Page table visualization with:/
+**-**Valid bits/
+**-**Dirty bits/
+**-**Reference bits
+**-**Accessed bits
+**-**Global bits
+**-**Read/Write/Execute permissions
+**-**Page fault handling and write-back simulation
+**-**Context switching and TLB flushing
+**-**Thrashing detection based on miss rate
+**-**Effective Access Time (EAT) calculation
+**-**Step-by-step execution mode
+**-**Interactive UI for observing memory operations visually
+**-**Event logs and translation summaries
 
 
 **Tech Stack**
